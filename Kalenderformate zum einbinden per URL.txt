@@ -1,0 +1,4 @@
+ICal		.ics, .ifb, .iCal, .iFBf
+CalDav		
+CardDav		
+
