@@ -1,5 +1,5 @@
 Feature: manage rights
-  As an administrator
+  As an general administrator
   I want to administrate different rights for the user
   So that I can set quotas and other regulations
 
