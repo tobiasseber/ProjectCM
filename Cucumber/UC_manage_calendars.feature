@@ -4,14 +4,16 @@ Feature: manage calendars
   So that I can create and manage my calendars
 
   Scenario: create calendar
-    Given the calendar to be create does not exist
-    When I click “create calendar”
-    Then I should see an overlay where I can type in a name, a short description and a color for the calendar
-    And the calendar is entered in the database
-    And I should confirm this step
+    Given I am logged in 
+	And I am on the "calendar list"
+	And I clicked "create calendar"
+    When I type in the correct calendar data
+    And I click "create"
+	Then I should see a confirmation message    
 
   Scenario: delete calendar
-    Given the calendar to be deleted does exist
-    When I click on “delete calendar”
-    Then I should see a confirmation dialogue to confirm deleting the calendar or cancel the deletion
-    And the calendar to be deleted is removed from the database
+	Given I am logged in
+    And I am on the "calendar list"
+	And I clicked "delete calendar"    
+    When I confirm the deletion
+	Then I should see a confirmation message

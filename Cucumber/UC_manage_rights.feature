@@ -3,14 +3,18 @@ Feature: manage rights
   I want to administrate different rights for the user
   So that I can set quotas and other regulations
 
-  Scenario: set size of inbox for user group
-    Given user exists
-    When I click “manage rights” 
-    Then I can type in a number for the size of the inbox which I permit the user 
-    And I should confirm this step
+  Scenario: set size of inbox for user
+    Given I am logged in 
+	And I am on the "user list"
+	And I clicked "manage rights"
+    When I type in the new inbox size
+    And I click "save"
+	Then I should see a confirmation message    
 
-  Scenario: set size of mail accounts
-    Given user exists
-    When I click “manage rights”
-    Then I can type in a number for the size of the amount of mail accounts a user can add
-    And I should confirm this step
+  Scenario: set maximum number of mail accounts
+	Given I am logged in 
+	And I am on the "user list"
+	And I clicked "manage rights"
+    When I type in the new maximum mail account number
+    And I click "save"
+	Then I should see a confirmation message  

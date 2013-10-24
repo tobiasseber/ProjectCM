@@ -4,15 +4,17 @@ Feature: manage address book
   So that I can write E-Mails to my contacts or other people
 
   Scenario: create contact
-    When I click “create contact”
-    Then I should see an overlay where I can type in the name, an address with the street, house number, zip-code, town, telephone number and E-Mail address
-    And I can upload a profile picture for the contact
-    And the contact to be created should be entered in the database
-    And I should confirm this step
+    Given I am logged in 
+	And I am on the "contact list"
+	And I clicked "create contact"
+    When I type in the correct contact data
+    And I upload a profile picture for the contact
+    And I click "create"
+	Then I should see a confirmation message    
 
   Scenario: delete contact
-    Given the contact to be deleted must exist
-    When I click “delete contact”
-    Then I should see a confirmation dialogue to confirm deleting the contact or cancel the deletion
-    And the contact to be deleted is removed from the database
-
+	Given I am logged in
+    And I am on the "contact list"
+	And I clicked "delete contact"    
+    When I confirm the deletion
+	Then I should see a confirmation message
