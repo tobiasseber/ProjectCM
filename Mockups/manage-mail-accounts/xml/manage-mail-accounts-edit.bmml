@@ -1,0 +1,156 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1306" measuredH="710" mockupW="1037" mockupH="690">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="269" y="20" w="1037" h="690" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>project-cm%20-%20edit%20mail%20account%0Ahttps%3A//project-cm.com/editmailaccount</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::SubTitle" x="367" y="131" w="-1" h="-1" measuredW="204" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Mail%20account%20-%20Edit</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::TextInput" x="367" y="188" w="295" h="-1" measuredW="96" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Sender%20Name</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::TextInput" x="367" y="247" w="295" h="-1" measuredW="108" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>email@test.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::TextInput" x="367" y="307" w="295" h="-1" measuredW="78" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>emailname</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Label" x="367" y="167" w="-1" h="-1" measuredW="82" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Sender%20Name</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Label" x="367" y="226" w="-1" h="-1" measuredW="32" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Email</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Label" x="367" y="285" w="-1" h="-1" measuredW="75" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Logon%20Name</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Button" x="367" y="644" w="-1" h="-1" measuredW="52" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Save</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Button" x="431" y="644" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cancel</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Label" x="367" y="349" w="-1" h="-1" measuredW="56" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Password</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::TextInput" x="367" y="370" w="295" h="-1" measuredW="104" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ooooooooooooo</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Label" x="367" y="412" w="-1" h="-1" measuredW="83" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Retrieve%20Type</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::ComboBox" x="369" y="439" w="-1" h="-1" measuredW="62" measuredH="62" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>IMAP%0APOP3%0AIMAP</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Label" x="464" y="412" w="-1" h="-1" measuredW="81" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Retrieve%20Host</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::TextInput" x="464" y="439" w="105" h="-1" measuredW="107" measuredH="27" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>imap.server.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Label" x="584" y="412" w="-1" h="-1" measuredW="78" measuredH="21" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Retrieve%20Port</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::TextInput" x="610" y="439" w="52" h="-1" measuredW="38" measuredH="27" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>993</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Label" x="677" y="412" w="-1" h="-1" measuredW="25" measuredH="21" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>SSL</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::CheckBox" x="683" y="442" w="13" h="21" measuredW="24" measuredH="22" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>selected</state>
+        <text>%2C</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Label" x="367" y="522" w="-1" h="-1" measuredW="62" measuredH="21" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Send%20Host</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::TextInput" x="367" y="543" w="105" h="-1" measuredW="109" measuredH="27" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>smtp.server.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Label" x="495" y="522" w="-1" h="-1" measuredW="59" measuredH="21" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Send%20Port</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::TextInput" x="495" y="543" w="52" h="-1" measuredW="37" measuredH="27" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>587</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Label" x="576" y="522" w="-1" h="-1" measuredW="25" measuredH="21" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>SSL</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::CheckBox" x="576" y="546" w="13" h="21" measuredW="24" measuredH="22" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>selected</state>
+        <text>%2C</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Label" x="725" y="412" w="125" h="-1" measuredW="124" measuredH="21" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Authentification%20Type</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Label" x="616" y="522" w="125" h="-1" measuredW="124" measuredH="21" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Authentification%20Type</text>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::ComboBox" x="725" y="439" w="-1" h="-1" measuredW="155" measuredH="62" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Password%20%28cleartype%29%0APassword%20%28cleartype%29%0APassword%20%28encrypted%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::ComboBox" x="616" y="543" w="-1" h="-1" measuredW="155" measuredH="62" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Password%20%28cleartype%29%0APassword%20%28cleartype%29%0APassword%20%28encrypted%29</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
