@@ -2,7 +2,7 @@
   <controls>
     <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="279" y="20" w="1037" h="690" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>project-cm%20calendars%0Ahttps%3A//project-cm.com/calendars</text>
+        <text>project-cm%20calendar%0Ahttps%3A//project-cm.com/calendar</text>
       </controlProperties>
     </control>
     <control controlID="1" controlTypeID="com.balsamiq.mockups::DataGrid" x="367" y="167" w="861" h="414" measuredW="277" measuredH="141" zOrder="1" locked="false" isInGroup="-1">
