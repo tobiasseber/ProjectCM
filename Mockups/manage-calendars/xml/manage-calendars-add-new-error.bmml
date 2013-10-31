@@ -5,7 +5,7 @@
         <text>project-cm%20-%20add%20new%20calendar%0Ahttps%3A//project-cm.com/newcalendar</text>
       </controlProperties>
     </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::SubTitle" x="367" y="131" w="-1" h="-1" measuredW="172" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::SubTitle" x="367" y="137" w="-1" h="-1" measuredW="172" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Calendar%20-%20New</text>
       </controlProperties>
@@ -58,18 +58,23 @@
         <text>Cancel</text>
       </controlProperties>
     </control>
-    <control controlID="29" controlTypeID="com.balsamiq.mockups::Canvas" x="367" y="158" w="564" h="32" measuredW="100" measuredH="70" zOrder="11" locked="false" isInGroup="-1">
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Label" x="373" y="164" w="-1" h="-1" measuredW="146" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
-        <backgroundAlpha>1</backgroundAlpha>
-        <borderColor>13576743</borderColor>
+        <color>16777215</color>
+        <text>please%20add%20a%20description</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Canvas" x="470" y="93" w="654" h="30" measuredW="100" measuredH="70" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.75</backgroundAlpha>
         <borderStyle>none</borderStyle>
         <color>13369344</color>
       </controlProperties>
     </control>
-    <control controlID="30" controlTypeID="com.balsamiq.mockups::Label" x="373" y="164" w="-1" h="-1" measuredW="146" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Label" x="478" y="98" w="-1" h="-1" measuredW="234" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
         <color>16777215</color>
-        <text>please%20add%20a%20description</text>
+        <text>Please%20insert%20all%20required%20data%20correctly</text>
       </controlProperties>
     </control>
   </controls>

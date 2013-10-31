@@ -2,12 +2,12 @@
   <controls>
     <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="279" y="20" w="1037" h="690" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>project-cm%20calendar%20view%0Ahttps%3A//project-cm.com/calendar/view</text>
+        <text>project-cm%20calendar%20edit%0Ahttps%3A//project-cm.com/calendar/edit</text>
       </controlProperties>
     </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::SubTitle" x="367" y="131" w="-1" h="-1" measuredW="175" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::SubTitle" x="367" y="131" w="-1" h="-1" measuredW="167" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Calendar%20-%20view</text>
+        <text>Calendar%20-%20Edit</text>
       </controlProperties>
     </control>
     <control controlID="18" controlTypeID="com.balsamiq.mockups::TextInput" x="367" y="188" w="295" h="-1" measuredW="107" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
@@ -45,9 +45,14 @@
         <text>Color</text>
       </controlProperties>
     </control>
-    <control controlID="26" controlTypeID="com.balsamiq.mockups::Button" x="369" y="423" w="-1" h="-1" measuredW="51" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Button" x="369" y="423" w="-1" h="-1" measuredW="52" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Back</text>
+        <text>Save</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Button" x="434" y="423" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cancel</text>
       </controlProperties>
     </control>
   </controls>
