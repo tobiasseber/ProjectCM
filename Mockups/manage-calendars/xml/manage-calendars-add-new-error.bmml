@@ -5,76 +5,73 @@
         <text>project-cm%20-%20calendar%20new%0Ahttps%3A//project-cm.com/calendar/new</text>
       </controlProperties>
     </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::SubTitle" x="367" y="137" w="-1" h="-1" measuredW="172" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::SubTitle" x="369" y="134" w="-1" h="-1" measuredW="172" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Calendar%20-%20New</text>
       </controlProperties>
     </control>
-    <control controlID="18" controlTypeID="com.balsamiq.mockups::TextInput" x="367" y="216" w="295" h="-1" measuredW="107" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Calendar%20Name</text>
-      </controlProperties>
-    </control>
-    <control controlID="19" controlTypeID="com.balsamiq.mockups::TextInput" x="367" y="279" w="295" h="-1" measuredW="79" measuredH="26" zOrder="3" locked="false" isInGroup="-1">
-      <controlProperties>
-        <backgroundAlpha>1</backgroundAlpha>
-        <borderColor>13576743</borderColor>
-        <state>up</state>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="21" controlTypeID="com.balsamiq.mockups::ColorPicker" x="636" y="341" w="-1" h="-1" measuredW="26" measuredH="28" zOrder="5" locked="false" isInGroup="-1">
-      <controlProperties>
-        <color>16750848</color>
-      </controlProperties>
-    </control>
-    <control controlID="22" controlTypeID="com.balsamiq.mockups::TextInput" x="367" y="342" w="295" h="-1" measuredW="67" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>%23FF7500</text>
-      </controlProperties>
-    </control>
-    <control controlID="23" controlTypeID="com.balsamiq.mockups::Label" x="367" y="195" w="-1" h="-1" measuredW="35" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Name</text>
-      </controlProperties>
-    </control>
-    <control controlID="24" controlTypeID="com.balsamiq.mockups::Label" x="367" y="258" w="-1" h="-1" measuredW="67" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Description</text>
-      </controlProperties>
-    </control>
-    <control controlID="25" controlTypeID="com.balsamiq.mockups::Label" x="367" y="320" w="-1" h="-1" measuredW="32" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Color</text>
-      </controlProperties>
-    </control>
-    <control controlID="26" controlTypeID="com.balsamiq.mockups::Button" x="369" y="423" w="-1" h="-1" measuredW="52" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Button" x="369" y="423" w="-1" h="-1" measuredW="52" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Save</text>
       </controlProperties>
     </control>
-    <control controlID="27" controlTypeID="com.balsamiq.mockups::Button" x="428" y="423" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Button" x="428" y="423" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Cancel</text>
       </controlProperties>
     </control>
-    <control controlID="30" controlTypeID="com.balsamiq.mockups::Label" x="373" y="164" w="-1" h="-1" measuredW="146" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Label" x="373" y="164" w="-1" h="-1" measuredW="146" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <color>16777215</color>
         <text>please%20add%20a%20description</text>
       </controlProperties>
     </control>
-    <control controlID="31" controlTypeID="com.balsamiq.mockups::Canvas" x="470" y="93" w="654" h="30" measuredW="100" measuredH="70" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Canvas" x="470" y="93" w="654" h="30" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <backgroundAlpha>0.75</backgroundAlpha>
         <borderStyle>none</borderStyle>
         <color>13369344</color>
       </controlProperties>
     </control>
-    <control controlID="32" controlTypeID="com.balsamiq.mockups::Label" x="478" y="98" w="-1" h="-1" measuredW="234" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Label" x="478" y="98" w="-1" h="-1" measuredW="234" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <color>16777215</color>
         <text>Please%20insert%20all%20required%20data%20correctly</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::TextInput" x="367" y="188" w="295" h="-1" measuredW="107" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Calendar%20Name</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::TextInput" x="367" y="247" w="295" h="-1" measuredW="81" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Description</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::TextInput" x="367" y="307" w="295" h="-1" measuredW="67" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%23FF7500</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::ColorPicker" x="636" y="306" w="-1" h="-1" measuredW="26" measuredH="28" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16750848</color>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Label" x="367" y="226" w="-1" h="-1" measuredW="67" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Description</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Label" x="367" y="285" w="-1" h="-1" measuredW="32" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Color</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Label" x="367" y="167" w="-1" h="-1" measuredW="35" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Name</text>
       </controlProperties>
     </control>
   </controls>

@@ -71,5 +71,17 @@
         <text>Edit%20rights</text>
       </controlProperties>
     </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Canvas" x="551" y="95" w="492" h="31" measuredW="100" measuredH="70" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>40463</color>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Label" x="558" y="100" w="-1" h="-1" measuredW="145" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>data%20edited%20successfully</text>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>
