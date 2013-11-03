@@ -5,9 +5,9 @@
         <text>project-cm%20-%20%20mail%20account%20view%0Ahttps%3A//project-cm.com/mailaccount/view</text>
       </controlProperties>
     </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::SubTitle" x="367" y="131" w="-1" h="-1" measuredW="204" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::SubTitle" x="367" y="131" w="-1" h="-1" measuredW="213" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Mail%20account%20-%20Edit</text>
+        <text>Mail%20account%20-%20View</text>
       </controlProperties>
     </control>
     <control controlID="18" controlTypeID="com.balsamiq.mockups::TextInput" x="367" y="188" w="295" h="-1" measuredW="96" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
