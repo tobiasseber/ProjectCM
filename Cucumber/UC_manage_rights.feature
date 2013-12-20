@@ -5,16 +5,16 @@ Feature: manage rights
 
   Scenario: set size of inbox for user
     Given I am logged in 
-	And I am on the "user list"
-	And I clicked "manage rights"
+	And I am on the user list
+	And I clicked manage rights
     When I type in the new inbox size
-    And I click "save"
+    And I click save
 	Then I should see a confirmation message    
 
   Scenario: set maximum number of mail accounts
 	Given I am logged in 
-	And I am on the "user list"
-	And I clicked "manage rights"
+	And I am on the user list
+	And I clicked manage rights
     When I type in the new maximum mail account number
-    And I click "save"
+    And I click save
 	Then I should see a confirmation message  
