@@ -1,0 +1,27 @@
+Required handin <->	Document / Link
+Vision			Project Proposal.pdf
+5 Use Cases		UC_manage_address_book.pdf
+			UC_manage_appointments.pdf
+			UC_manage_calendars.pdf
+			UC_manage_mail_accounts.pdf
+			UC_manage_rights.pdf
+			Additional:
+			UC_login.pdf
+			UC_logout.pdf
+			UC_book_meeting_rooms.pdf (not implemented)
+SRS			Software Requirements Specification.pdf
+MS Project Plan		ProjectCM.pdf (Original: ProjectCM.mpp)
+Jira			http://193.196.7.46:8080/secure/RapidBoard.jspa?rapidView=30 (Board Name: ProjectCM)
+FP Estimation		Function Points.pdf
+Demo			http://projectcm.herokuapp.com/
+			Login Data: andreas password: test
+Code link		https://github.com/tobias-engelmann/ProjectCM
+Test Plan		Testplan.pdf
+Test Logs		https://travis-ci.org/tobias-engelmann/ProjectCM
+Architecture Document	Software Architecture Document.pdf
+DB Schema		See Architecture Document Chapter 8
+Risk List		Risk List.pdf
+Proof of automation	Continous integration: https://travis-ci.org/tobias-engelmann/ProjectCM
+			Autmated coverage: https://coveralls.io/r/tobias-engelmann/ProjectCM
+Installation Manual	https://github.com/tobias-engelmann/ProjectCM/wiki/Deployment-on-Heroku
+Final Presentation	FinalPresentationSE.pdf
